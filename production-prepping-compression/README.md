@@ -13,7 +13,20 @@ download: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/production-
 - Using the downloaded assets, convert them into export ready graphics.
   Think about how the website should be coded, looking at the wireframe in Illustrator, and pick it apart into the right exportable graphics.
 - You should finish with a series of AIs, PSDs, SVGs, & JPGs exported & smushed in the proper folders.
-- *Show the teacher the production and exported files & prove you smushed them.*
+
+---
+
+## Details
+
+Export the following images—**make sure to keep PSD & AI production files for each one in case you need to change them later.**
+
+- `banner.???`
+- `feather-left.???`
+- `feather-right.???`
+- `logo.???`
+- `mummy.???`
+
+*Extensions have been intentionally left off these instructions, because part of the assignment is to determine which format is most appropriate.*
 
 ---
 
